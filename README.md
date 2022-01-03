@@ -14,7 +14,7 @@ Android 原生开发随着 Flutter 的到来，前景开始变得不那么明朗
 
 但随着目前 5G 时代的来临、以及人们普遍开始越来越重视应用安全，如应用隐私安全等。音视频领域、移动安全领域方兴未艾，尤其移动安全领域比较难找到相关的参考学习资料、学习路线，而笔者正深耘 Android 移动安全领域，欢迎关注我的个人微信公众号，希望在这学习 Android 移动安全的路上有你一起长风破浪。
 
-<img src="./README.assets/wechat_code.png" width="290" align="right" hspace="20">
+<img src="http://baihonghua.cn/wechat_code.png" width="290" align="right" hspace="20">
 
 
 
